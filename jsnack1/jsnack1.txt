@@ -1,0 +1,1 @@
+creo un arrey che parte vuoto e viene riempito automaticamente di 10 elementi con un numero casuale da 1 a 100, senza doppioni
